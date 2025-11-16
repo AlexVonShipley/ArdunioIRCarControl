@@ -4,10 +4,8 @@
 #define  IRsensorPin 13
 
 /* define functions used by the library 
-IRrecv irrecv(IRsensorPin);
-decode_IrReceiver IrReceiver;*/
 
-/* define L298N motor drive control pins */
+*/
 int MainMotorLeftD0 = 2;   // IN1
 int MainMotorLeftD1 = 3;   // IN2
 int MainMotorRightD0 = 4;  // IN3
